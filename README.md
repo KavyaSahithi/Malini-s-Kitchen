@@ -1,5 +1,5 @@
 # Malini-s-Kitchen
-Home kitchen site with delivery/ takeaway
+Home kitchen site 
 
 Live version:
 
