@@ -2,5 +2,4 @@
 Home kitchen site 
 
 Live version:
-
-https://mailinis-kitchen.netlify.app/
+https://maliniskitchen.store/
